@@ -1,0 +1,4 @@
+---
+- src: https://github.com/AndrewGodGivens/rabbitmq_cluster.git
+  version: main
+  name: rabbitmq_cluster
