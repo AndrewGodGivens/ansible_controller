@@ -1,6 +1,6 @@
 #!/usr/bin/env ansible-playbook
 #
-# Playbook to install and run rabbitmq_cluster.
+# Playbook to install and run rabbitmq cluster.
 # Run it like usual executable script:
 #
 # > ./run-rabbitmq.yml
